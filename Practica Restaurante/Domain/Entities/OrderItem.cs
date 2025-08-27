@@ -6,7 +6,15 @@ using System.Threading.Tasks;
 
 namespace Domain.Entities
 {
-    internal class OrderItem
+    public class OrderItem
     {
+        public long OrderItemId { get; set; }
+        public long Order { get; set; } //FK
+        public Guid Dish {  get; set; } //FK
+        public int Quantity { get; set; }
+        public string Notes { get; set; }
+        public int Status { get; set; } //FK
+        public DateTime CreateDate { get; set; }
+
     }
 }
