@@ -5,6 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
 namespace Domain.Entities
 {
     public class Category
@@ -14,5 +15,7 @@ namespace Domain.Entities
         public string Description { get; set; }
         public int Order { get; set; }
 
+        // Relación 1:N Una categoria puede tener muchos platos
+        public ICollection<Dish> Dishes { get; set; }
     }
 }

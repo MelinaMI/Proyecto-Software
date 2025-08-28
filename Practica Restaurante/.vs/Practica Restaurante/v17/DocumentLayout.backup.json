@@ -3,44 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\Noxie\\Documents\\Repositorios\\Proyecto-Software\\Practica Restaurante\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E13FFF5D-8C67-40C1-BDC3-18C8115A2CB2}|Domain\\Domain.csproj|c:\\users\\noxie\\documents\\repositorios\\proyecto-software\\practica restaurante\\domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E13FFF5D-8C67-40C1-BDC3-18C8115A2CB2}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E13FFF5D-8C67-40C1-BDC3-18C8115A2CB2}|Domain\\Domain.csproj|c:\\users\\noxie\\documents\\repositorios\\proyecto-software\\practica restaurante\\domain\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13FFF5D-8C67-40C1-BDC3-18C8115A2CB2}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E13FFF5D-8C67-40C1-BDC3-18C8115A2CB2}|Domain\\Domain.csproj|c:\\users\\noxie\\documents\\repositorios\\proyecto-software\\practica restaurante\\domain\\entities\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E13FFF5D-8C67-40C1-BDC3-18C8115A2CB2}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E13FFF5D-8C67-40C1-BDC3-18C8115A2CB2}|Domain\\Domain.csproj|c:\\users\\noxie\\documents\\repositorios\\proyecto-software\\practica restaurante\\domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13FFF5D-8C67-40C1-BDC3-18C8115A2CB2}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E13FFF5D-8C67-40C1-BDC3-18C8115A2CB2}|Domain\\Domain.csproj|c:\\users\\noxie\\documents\\repositorios\\proyecto-software\\practica restaurante\\domain\\entities\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E13FFF5D-8C67-40C1-BDC3-18C8115A2CB2}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E13FFF5D-8C67-40C1-BDC3-18C8115A2CB2}|Domain\\Domain.csproj|c:\\users\\noxie\\documents\\repositorios\\proyecto-software\\practica restaurante\\domain\\entities\\deliverytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E13FFF5D-8C67-40C1-BDC3-18C8115A2CB2}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\deliverytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E13FFF5D-8C67-40C1-BDC3-18C8115A2CB2}|Domain\\Domain.csproj|c:\\users\\noxie\\documents\\repositorios\\proyecto-software\\practica restaurante\\domain\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E13FFF5D-8C67-40C1-BDC3-18C8115A2CB2}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E13FFF5D-8C67-40C1-BDC3-18C8115A2CB2}|Domain\\Domain.csproj|c:\\users\\noxie\\documents\\repositorios\\proyecto-software\\practica restaurante\\domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E13FFF5D-8C67-40C1-BDC3-18C8115A2CB2}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{2246F6D7-5383-48F5-BDC5-20F4B32A5568}|Infrastructure\\Infrastructure.csproj|c:\\users\\noxie\\documents\\repositorios\\proyecto-software\\practica restaurante\\infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2246F6D7-5383-48F5-BDC5-20F4B32A5568}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C8E3ED71-2741-4C0D-BF2A-656B2397B4A5}|Practica Restaurante\\Practica Restaurante.csproj|c:\\users\\noxie\\documents\\repositorios\\proyecto-software\\practica restaurante\\practica restaurante\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8E3ED71-2741-4C0D-BF2A-656B2397B4A5}|Practica Restaurante\\Practica Restaurante.csproj|solutionrelative:practica restaurante\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A642CD0-8D5E-4241-B746-D5B7CBD8E4FD}|Application\\Application.csproj|c:\\users\\noxie\\documents\\repositorios\\proyecto-software\\practica restaurante\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{4A642CD0-8D5E-4241-B746-D5B7CBD8E4FD}|Application\\Application.csproj|solutionrelative:application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8E3ED71-2741-4C0D-BF2A-656B2397B4A5}|Practica Restaurante\\Practica Restaurante.csproj|c:\\users\\noxie\\documents\\repositorios\\proyecto-software\\practica restaurante\\practica restaurante\\practica restaurante.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{C8E3ED71-2741-4C0D-BF2A-656B2397B4A5}|Practica Restaurante\\Practica Restaurante.csproj|solutionrelative:practica restaurante\\practica restaurante.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8E3ED71-2741-4C0D-BF2A-656B2397B4A5}|Practica Restaurante\\Practica Restaurante.csproj|c:\\users\\noxie\\documents\\repositorios\\proyecto-software\\practica restaurante\\practica restaurante\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8E3ED71-2741-4C0D-BF2A-656B2397B4A5}|Practica Restaurante\\Practica Restaurante.csproj|solutionrelative:practica restaurante\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C8E3ED71-2741-4C0D-BF2A-656B2397B4A5}|Practica Restaurante\\Practica Restaurante.csproj|c:\\users\\noxie\\documents\\repositorios\\proyecto-software\\practica restaurante\\practica restaurante\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C8E3ED71-2741-4C0D-BF2A-656B2397B4A5}|Practica Restaurante\\Practica Restaurante.csproj|solutionrelative:practica restaurante\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,8 +42,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 139,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Status.cs",
+              "DocumentMoniker": "C:\\Users\\Noxie\\Documents\\Repositorios\\Proyecto-Software\\Practica Restaurante\\Domain\\Entities\\Status.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Status.cs",
+              "ToolTip": "C:\\Users\\Noxie\\Documents\\Repositorios\\Proyecto-Software\\Practica Restaurante\\Domain\\Entities\\Status.cs*",
+              "RelativeToolTip": "Domain\\Entities\\Status.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T20:15:46.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Noxie\\Documents\\Repositorios\\Proyecto-Software\\Practica Restaurante\\Domain\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\Noxie\\Documents\\Repositorios\\Proyecto-Software\\Practica Restaurante\\Domain\\Entities\\Order.cs*",
+              "RelativeToolTip": "Domain\\Entities\\Order.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T18:15:31.088Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
@@ -67,104 +85,66 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\Noxie\\Documents\\Repositorios\\Proyecto-Software\\Practica Restaurante\\Domain\\Entities\\Order.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\Order.cs",
-              "ToolTip": "C:\\Users\\Noxie\\Documents\\Repositorios\\Proyecto-Software\\Practica Restaurante\\Domain\\Entities\\Order.cs",
-              "RelativeToolTip": "Domain\\Entities\\Order.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T00:53:45.595Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "OrderItem.cs",
               "DocumentMoniker": "C:\\Users\\Noxie\\Documents\\Repositorios\\Proyecto-Software\\Practica Restaurante\\Domain\\Entities\\OrderItem.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\OrderItem.cs",
-              "ToolTip": "C:\\Users\\Noxie\\Documents\\Repositorios\\Proyecto-Software\\Practica Restaurante\\Domain\\Entities\\OrderItem.cs",
-              "RelativeToolTip": "Domain\\Entities\\OrderItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Noxie\\Documents\\Repositorios\\Proyecto-Software\\Practica Restaurante\\Domain\\Entities\\OrderItem.cs*",
+              "RelativeToolTip": "Domain\\Entities\\OrderItem.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T00:53:34.616Z",
+              "WhenOpened": "2025-08-27T18:07:29.754Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "DeliveryType.cs",
-              "DocumentMoniker": "C:\\Users\\Noxie\\Documents\\Repositorios\\Proyecto-Software\\Practica Restaurante\\Domain\\Entities\\DeliveryType.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\DeliveryType.cs",
-              "ToolTip": "C:\\Users\\Noxie\\Documents\\Repositorios\\Proyecto-Software\\Practica Restaurante\\Domain\\Entities\\DeliveryType.cs",
-              "RelativeToolTip": "Domain\\Entities\\DeliveryType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T00:53:21.599Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Dish.cs",
               "DocumentMoniker": "C:\\Users\\Noxie\\Documents\\Repositorios\\Proyecto-Software\\Practica Restaurante\\Domain\\Entities\\Dish.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\Dish.cs",
               "ToolTip": "C:\\Users\\Noxie\\Documents\\Repositorios\\Proyecto-Software\\Practica Restaurante\\Domain\\Entities\\Dish.cs",
               "RelativeToolTip": "Domain\\Entities\\Dish.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T00:52:22.4Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Status.cs",
-              "DocumentMoniker": "C:\\Users\\Noxie\\Documents\\Repositorios\\Proyecto-Software\\Practica Restaurante\\Domain\\Entities\\Status.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\Status.cs",
-              "ToolTip": "C:\\Users\\Noxie\\Documents\\Repositorios\\Proyecto-Software\\Practica Restaurante\\Domain\\Entities\\Status.cs",
-              "RelativeToolTip": "Domain\\Entities\\Status.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T00:53:50.785Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\Noxie\\Documents\\Repositorios\\Proyecto-Software\\Practica Restaurante\\Domain\\Entities\\Category.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\Category.cs",
-              "ToolTip": "C:\\Users\\Noxie\\Documents\\Repositorios\\Proyecto-Software\\Practica Restaurante\\Domain\\Entities\\Category.cs",
-              "RelativeToolTip": "Domain\\Entities\\Category.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAawA0AAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T00:52:13.521Z",
+              "WhenOpened": "2025-08-27T17:58:20.127Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Application.csproj",
-              "DocumentMoniker": "C:\\Users\\Noxie\\Documents\\Repositorios\\Proyecto-Software\\Practica Restaurante\\Application\\Application.csproj",
-              "RelativeDocumentMoniker": "Application\\Application.csproj",
-              "ToolTip": "C:\\Users\\Noxie\\Documents\\Repositorios\\Proyecto-Software\\Practica Restaurante\\Application\\Application.csproj",
-              "RelativeToolTip": "Application\\Application.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-27T00:29:29.523Z"
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Noxie\\Documents\\Repositorios\\Proyecto-Software\\Practica Restaurante\\Practica Restaurante\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Practica Restaurante\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Noxie\\Documents\\Repositorios\\Proyecto-Software\\Practica Restaurante\\Practica Restaurante\\appsettings.Development.json",
+              "RelativeToolTip": "Practica Restaurante\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-27T04:15:57.468Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Practica Restaurante.csproj",
-              "DocumentMoniker": "C:\\Users\\Noxie\\Documents\\Repositorios\\Proyecto-Software\\Practica Restaurante\\Practica Restaurante\\Practica Restaurante.csproj",
-              "RelativeDocumentMoniker": "Practica Restaurante\\Practica Restaurante.csproj",
-              "ToolTip": "C:\\Users\\Noxie\\Documents\\Repositorios\\Proyecto-Software\\Practica Restaurante\\Practica Restaurante\\Practica Restaurante.csproj",
-              "RelativeToolTip": "Practica Restaurante\\Practica Restaurante.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-27T00:24:20.035Z"
+              "DocumentIndex": 4,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Noxie\\Documents\\Repositorios\\Proyecto-Software\\Practica Restaurante\\Domain\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\Noxie\\Documents\\Repositorios\\Proyecto-Software\\Practica Restaurante\\Domain\\Entities\\Category.cs*",
+              "RelativeToolTip": "Domain\\Entities\\Category.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T04:07:51.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Noxie\\Documents\\Repositorios\\Proyecto-Software\\Practica Restaurante\\Infrastructure\\Persistence\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Noxie\\Documents\\Repositorios\\Proyecto-Software\\Practica Restaurante\\Infrastructure\\Persistence\\AppDbContext.cs*",
+              "RelativeToolTip": "Infrastructure\\Persistence\\AppDbContext.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwCAAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T04:01:39.016Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -178,18 +158,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-26T19:38:48.564Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\Noxie\\Documents\\Repositorios\\Proyecto-Software\\Practica Restaurante\\Practica Restaurante\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "Practica Restaurante\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\Noxie\\Documents\\Repositorios\\Proyecto-Software\\Practica Restaurante\\Practica Restaurante\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "Practica Restaurante\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T19:17:33.471Z"
             }
           ]
         }
